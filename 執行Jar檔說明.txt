@@ -1,0 +1,9 @@
+有灌JVM.JRE的情況下
+
+開始->cmd(命令提示字元 in windows) 
+
+將Bayesian_Final.jar複製至桌面
+輸入
+
+cd Desktop
+java -jar Bayesian_Final.jar 
